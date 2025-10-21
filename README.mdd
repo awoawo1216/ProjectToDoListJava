@@ -1,0 +1,30 @@
+# ProjectToDoListJava
+
+## Deskripsi Program  
+Program ini merupakan aplikasi **To-Do List sederhana** yang dibuat menggunakan bahasa Java.  
+Pengguna dapat:
+- Menambahkan tugas baru ke daftar  
+- Melihat daftar tugas yang telah dibuat  
+- Menghapus tugas berdasarkan nomor urut  
+- Keluar dari program  
+
+Tujuan program ini adalah untuk memahami konsep **ArrayList**, **perulangan**, dan **input pengguna** menggunakan `Scanner` di Java.
+
+---
+
+## Rencana Proyek  
+Untuk proyek semester ini, saya berencana mengembangkan **Aplikasi Manajemen Tugas Harian (To-Do List)** yang lebih interaktif dengan fitur:
+- Menyimpan dan memuat daftar tugas dari file lokal (`tasks.txt`)
+- Menandai tugas sebagai “selesai”
+- Menambahkan deadline untuk setiap tugas
+- Menampilkan jumlah tugas selesai dan belum selesai
+- Versi lanjutan: tampilan GUI menggunakan JavaFX  
+
+Proyek ini bertujuan membantu pengguna mengatur kegiatan harian secara lebih teratur dan efisien.
+
+---
+
+## Cara Menjalankan  
+1. Pastikan Java SDK sudah terpasang.  
+2. Buka terminal di folder proyek.  
+3. Jalankan perintah:
